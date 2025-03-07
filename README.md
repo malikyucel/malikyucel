@@ -4,8 +4,6 @@
 
 <h1 align="center">Merhaba 👋, Ben Malik</h1>
 <h3 align="center">Merhaba, ben Malik
-Kariyerime oyun geliştirici olarak devam etmek istiyorum. Bu mesleği seçmemin sebebi, hayatımın büyük bir kısmını çalışarak geçireceğimi biliyorum ve herkes gibi ben de işimden keyif almak istiyorum.
-
 Oyun oynamak kadar, oyunlara kod yazmak da bana büyük bir keyif veriyor. Ayrıca, problem çözmek ve yeni mekanikler geliştirmek benim için tatmin edici bir süreç. Bu yüzden Game Developer olma yolunda kendimi sürekli geliştiriyorum.
 
 Bu süreçte;
@@ -14,8 +12,7 @@ Bu süreçte;
 - Unity oyun motoru hakkında değerli bilgiler ediniyorum ve projeler geliştiriyorum.
 
 Bu alanda kendimi daha da ileri taşımak için sürekli öğrenmeye, yeni projeler geliştirmeye ve oyun dünyasının dinamiklerini keşfetmeye devam ediyorum.
-
-Oyun geliştirme, algoritmalar veya Unity hakkında sohbet etmek isterseniz benimle iletişime geçmekten çekinmeyin!</h3>
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
