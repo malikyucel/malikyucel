@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Merhaba 👋, Ben Malik</h1>
-<h3 align="center">Merhaba, ben Malik
+<h3 align="center">Merhaba,
 Oyun oynamak kadar, oyunlara kod yazmak da bana büyük bir keyif veriyor. Ayrıca, problem çözmek ve yeni mekanikler geliştirmek benim için tatmin edici bir süreç. Bu yüzden Game Developer olma yolunda kendimi sürekli geliştiriyorum.
 
 Bu süreçte;
